@@ -1,6 +1,11 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I am currently working as a data scientist to analyze data.<br>🌱 I am currently learning more about computer vision.
-
+😄 Pronouns: He/His
+🎓 Currently a sophomore at Sharif University of Technology, majoring in Transportation Engineering.
+📊 Deeply interested in data analysis, which has shaped my academic journey and led me to learn about data mining and machine learning.
+🔢 My field of study is closely linked with statistical sciences and data mining, giving me a thorough understanding of these areas.
+🛠️ Proficient in various tools relevant to these fields.
+🚀 Aspiring to dive deeper into data analysis to further enhance my expertise.
+💻 Passionate about using computer vision and image processing to transform urban traffic management and improve the efficiency of autonomous vehicles.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amin-ghandi/) 
