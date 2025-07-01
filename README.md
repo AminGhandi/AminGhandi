@@ -10,7 +10,6 @@
 
 🚀 Aspiring to dive deeper into data analysis to further enhance my expertise.
 
-🌱 Passionate about using computer vision and image processing to transform urban traffic management and improve the efficiency of autonomous vehicles.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amin-ghandi/) 
